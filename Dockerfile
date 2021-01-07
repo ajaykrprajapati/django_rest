@@ -1,5 +1,5 @@
-FROM python:3.6-alpine
-MAINTAINER Ajay Kumar Prajapati
+FROM python:3.8-alpine
+ MAINTAINER Ajay Kumar Prajapati
 
 ENV PYTHONUNBUFFERED 1
 
