@@ -1,4 +1,3 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -91,7 +90,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-env_django_rest/
+env*
 
 # Spyder project settings
 .spyderproject
